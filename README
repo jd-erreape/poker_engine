@@ -1,0 +1,10 @@
+- TODO
+
+  . Evaluate two hands of poker, make it extensible so changing
+    the algorithm used to compare the hands could be easily replaced
+  . Think about players, chips and rounds
+
+- Algorithms to evaluate poker hands
+
+  https://stackoverflow.com/questions/10363927/the-simplest-algorithm-for-poker-hand-evaluation
+  https://www.codeproject.com/Articles/569271/A-Poker-hand-analyzer-in-JavaScript-using-bit-mathhttps://stackoverflow.com/questions/10363927/the-simplest-algorithm-for-poker-hand-evaluation
